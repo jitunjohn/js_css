@@ -1,5 +1,5 @@
 a:link {
-    color: rgba(140, 20, 20, 0.80)
+    color: #105875
 }
 
 a:visited {
@@ -14,8 +14,12 @@ a:active {
     color: #c77405
 }
 
-a[href*="inficon"] {
-    color: rgba(140, 20, 20, 0.80)
+a[href*="net:8"] {
+    color: rgba(23, 22, 22, 0.9);
+    text-decoration: none;
+    padding-bottom: 1px;
+    border-bottom: 1px solid rgba(78, 76, 76, 0.1);
+    text-shadow: rgba(78, 76, 76, 0.2) 1px 1px 1px;
 }
 
 body {
