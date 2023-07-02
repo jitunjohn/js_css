@@ -387,11 +387,11 @@ h1 {
 }
 
 table.dataTable tr.dtrg-group td {
-    background-color: rgba(175, 175, 175, 0.80)
+    background-color: rgba(175, 175, 175, 0.80) !important
 }
 
 table.dataTable tr.dtrg-group.dtrg-level-0 td {
-    font-weight: bold
+    font-weight: bold !important
 }
 
 table.dataTable tr.dtrg-group.dtrg-level-1 td,
@@ -399,32 +399,32 @@ table.dataTable tr.dtrg-group.dtrg-level-2 td,
 table.dataTable tr.dtrg-group.dtrg-level-3 td,
 table.dataTable tr.dtrg-group.dtrg-level-4 td,
 table.dataTable tr.dtrg-group.dtrg-level-5 td {
-    background-color: rgba(195, 195, 195, 0.80);
-    padding-top: .25em;
-    padding-bottom: .25em;
-    padding-left: 2em;
-    font-size: 1em;
-    font-weight: bold
+    background-color: rgba(195, 195, 195, 0.80) !important;
+    padding-top: .25em !important;
+    padding-bottom: .25em !important;
+    padding-left: 2em !important;
+    font-size: 1em !important;
+    font-weight: bold !important
 }
 
 table.dataTable tr.dtrg-group.dtrg-level-2 td {
-    background-color: rgba(215, 215, 215, 0.80);
-    padding-left: 2.5em
+    background-color: rgba(215, 215, 215, 0.80) !important;
+    padding-left: 2.5em !important
 }
 
 table.dataTable tr.dtrg-group.dtrg-level-3 td {
-    background-color: #f3f3f3;
-    padding-left: 3em
+    background-color: #f3f3f3 !important;
+    padding-left: 3em !important
 }
 
 table.dataTable tr.dtrg-group.dtrg-level-4 td {
-    background-color: #f3f3f3;
-    padding-left: 3.5em
+    background-color: #f3f3f3 !important;
+    padding-left: 3.5em !important
 }
 
 table.dataTable tr.dtrg-group.dtrg-level-5 td {
-    background-color: #f3f3f3;
-    padding-left: 4em
+    background-color: #f3f3f3 !important;
+    padding-left: 4em !important
 }
 
 table.dataTable.table-striped tr.dtrg-level-0 td {
